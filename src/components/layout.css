@@ -637,3 +637,15 @@ p{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 1.15rem;
 }
+.conic {
+  background: conic-gradient(cyan, magenta, yellow,greenyellow);
+}
+
+.gradient {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.conic-repeating {
+  background: repeating-conic-gradient(red 10%, #4AAE9B 20%);
+}
