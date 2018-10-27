@@ -10,9 +10,8 @@ const IndexPage = () => (
     <p>Welcome to my new portfolio site. My name is Lan Barrick and I am a caring person. Check out my awesome portfolio created by the most incredible man I know, my husband, Dan Barrick.</p>
     <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
       <Image />
-    </div><div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
-      <Image />
     </div>
+    <img alt="Taylor Swift" src="https://res.cloudinary.com/https-www-dreamardor-com/image/upload/v1540609589/taylor-swift-sexy.jpg"></img>
     <Link to="/page-2/">Go to page 2</Link>
   </Layout>
 )

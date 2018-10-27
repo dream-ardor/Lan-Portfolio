@@ -626,3 +626,7 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+.responsive {
+ max-width:100%;
+}
