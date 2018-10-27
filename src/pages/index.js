@@ -7,7 +7,7 @@ import Image from '../components/image'
 const IndexPage = () => (
   <Layout>
     <h1>Hi people</h1>
-    <p>Welcome to my new portfolio site.</p>
+    <p>Welcome to my new portfolio site. My name is Lan Barrick and I am a caring person. Check out my awesome portfolio created by the most incredible man I know, my husband, Dan Barrick.</p>
     <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
       <Image />
     </div><div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
