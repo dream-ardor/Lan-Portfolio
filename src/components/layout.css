@@ -67,7 +67,7 @@ h1 {
 }
 mark {
   background-color: #ff0;
-  color: #000;
+  color: rebeccapurple;
 }
 small {
   font-size: 80%;
@@ -201,7 +201,7 @@ html {
   box-sizing: inherit;
 }
 body {
-  color: hsla(0, 0%, 0%, 0.8);
+  color: rebeccapurple(0, 0%, 0%, 0.8);
   font-family: georgia, serif;
   font-weight: normal;
   word-wrap: break-word;
@@ -231,7 +231,7 @@ h1 {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
-  color: inherit;
+  color: rebeccapurple;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
@@ -629,4 +629,11 @@ pre tt:after {
 
 .responsive {
  max-width:100%;
+ max-height: 100%;
+}
+p{
+  color:rebeccapurple;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.15rem;
 }
